@@ -55,8 +55,7 @@ new_hash = {}
        else 
        
       
-            new_hash[key_lang][:style] << key_lang
-    binding.pry
+            new_hash[key_lang][:style] << type_data
        
       end 
   end
