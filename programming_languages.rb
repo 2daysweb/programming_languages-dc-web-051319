@@ -56,7 +56,7 @@ new_hash = {}
        
       
             new_hash[key_lang][:style] << key_top
-            
+            binding.pry
        
       end 
   end
